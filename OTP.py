@@ -4,8 +4,8 @@ import random
 # Email sender details
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
-SENDER_EMAIL = "shreyashmukkawar2005@gmail.com"  # Replace with your Gmail
-SENDER_PASSWORD = "elji udwd agbd qrsu"  # Replace with your 16-char App Password
+SENDER_EMAIL = "Enter_mail"  # Replace with your Gmail
+SENDER_PASSWORD = "API_16 Char App Pass"  # Replace with your 16-char App Password
 
 # Function to generate a 6-digit numeric OTP
 def generate_numeric_otp():
